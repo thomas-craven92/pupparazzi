@@ -1,0 +1,25 @@
+{
+  "puppies": [
+    {
+      "id": 7,
+      "name": "Rocky",
+      "owner": "Ricky",
+      "image": "/images/puppy7.jpg",
+      "breed": "Labrador"
+    },
+    {
+      "name": "Thomas Craven",
+      "breed": "a",
+      "owner": "s",
+      "image": "/images/puppy1.jpg",
+      "id": 9
+    },
+    {
+      "name": "Thomas Craven",
+      "breed": "a",
+      "owner": "a",
+      "image": "/images/puppy1.jpg",
+      "id": 10
+    }
+  ]
+}
